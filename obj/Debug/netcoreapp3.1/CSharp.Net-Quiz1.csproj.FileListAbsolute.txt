@@ -1,0 +1,11 @@
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\bin\Debug\netcoreapp3.1\CSharp.Net-Quiz1.exe
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\bin\Debug\netcoreapp3.1\CSharp.Net-Quiz1.deps.json
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\bin\Debug\netcoreapp3.1\CSharp.Net-Quiz1.runtimeconfig.json
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\bin\Debug\netcoreapp3.1\CSharp.Net-Quiz1.runtimeconfig.dev.json
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\bin\Debug\netcoreapp3.1\CSharp.Net-Quiz1.dll
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\bin\Debug\netcoreapp3.1\CSharp.Net-Quiz1.pdb
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\obj\Debug\netcoreapp3.1\CSharp.Net-Quiz1.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\obj\Debug\netcoreapp3.1\CSharp.Net-Quiz1.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\obj\Debug\netcoreapp3.1\CSharp.Net-Quiz1.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\obj\Debug\netcoreapp3.1\CSharp.Net-Quiz1.dll
+C:\Users\Johnny\source\repos\CSharp.Net-Quiz1\obj\Debug\netcoreapp3.1\CSharp.Net-Quiz1.pdb
