@@ -117,6 +117,10 @@ namespace CSharp.Net_Quiz1
             //console.
             Console.WriteLine();
             Console.WriteLine("8- ============================================================");
+
+            // I understand that Action is just a Delegate with a void return and Func is a Delegate with return params but I don't understand Event.
+            
+            
         }
 
         // 2- methods ============================================================
